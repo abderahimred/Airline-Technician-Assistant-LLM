@@ -39,7 +39,7 @@ Airline maintenance requires fast, accurate decisions to ensure safety and reduc
 |---------|--------|
 | Engine vibration at takeoff | Check fan blades for damage, inspect mounts, log vibration readings |
 
-> **Note:** Dataset is included in `data/` or can be downloaded from Kaggle: [dataset link]
+> **Note:** Dataset is included in `data/` or can be downloaded from Kaggle: [[dataset link](https://www.kaggle.com/datasets/merishnasuwal/aircraft-historical-maintenance-dataset?select=Aircraft_Annotation_DataFile.csv)]
 
 ---
 
